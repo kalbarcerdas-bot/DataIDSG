@@ -1,0 +1,6 @@
+﻿fund_id,label,idr_billion,financial_nature,status,grade,source_ids,caveat
+F01,"Hibah saham BYAN Elaine, nilai indikatif Agustus 2024",101845.3384256,ekuitas harga pasar,noncash_share_gift,A/B,S10;S11,"Tidak tersedia sebagai dana tunai; hipotetis bila seluruh nilai dapat direalisasi, tanpa dampak harga/pajak"
+F02,"Donasi ke NUS, kurs peristiwa Februari 2023",1141.5222,"donasi diterima, institusi SG",gift_received,A/B,S07;S08,Konversi indikatif historis; bukan berarti penerima eksklusif warga Singapura
+F03,"Janji donasi ke NTU, kurs Maret 2025",97.6136,komitmen SG dan mahasiswa Indonesia,pledge,A/B,S09;S17,Belum konfirmasi realisasi keseluruhan komitmen
+F04,Donasi Low kepada ITB UGM UI total,200,donasi pribadi pendidikan Indonesia,mixed_pledge_received,B,S16,"Periode 2019-2022, tidak khusus sekolah Garuda atau Kalimantan"
+F05,PPM pendidikan Bayan 2022-2025,33.52,PPM pendidikan area operasi,company_program_aggregated,A,S15,Empat tahun bukan satu tahun; tidak semata Tabang

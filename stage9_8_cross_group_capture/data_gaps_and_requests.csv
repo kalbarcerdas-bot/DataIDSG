@@ -1,0 +1,13 @@
+﻿priority,question,evidence_required,group_or_institution,current_limit,status
+P1,Indonesia→Singapore cash dividends,"Obtain parent-only accounts and Indonesian subsidiary dividend declarations, bank settlement when public, record-date shares",For each group 2015–2025,no consolidated cash dividend sub-to-parent public ledger,B: potentially through filings
+P1,Astra recording-date exact shares,"Verify JCC held 20,288,255,040 shares at 22 May and October 2025 recording dates",Astra/BAE/KSEI,gross Rp8.237T estimate,B
+P1,GEMS GEAR record-date ownership,"Verify GEAR % at 2025 Jun5 and Jun24 date, direct shareholder registers",GEMS/KSEI,~US$14.7m estimate provisional,C
+P1,Ultimate economic owners,"Separate SG incorporation, custodians, fund residence and nationality",7 groups,unknown share of benefit going to Singapore residents,C
+P1,Geographic and supply-chain allocation,"Indonesian production value vs global revenue, intercompany trading arms, double counting",Wilmar/GAR/First,global group revenues misleading for extraction,C
+P1,NEA notices response and outcome,"Track Section 10 responses, concessions and whether responsibility is established",NEA/SGX/Indonesia,as of 24 Oct information requests only,A for notices
+P2,Sustainable payments,"Corporate taxes, royalties, wages, PPM, local procurement and ecosystem damage/rehabilitation 2015-25",per subsidiary,net resource benefit balance,C
+P2,Longitudinal ownership,2015–2025 shareholdings and corporate actions especially GEAR delisting and GEMS in-specie,"SGX, IDX, ARs",break in GEAR exposure around 2023,"A event, unquantified"
+P2,Dividend year classification,Separate fiscal-year declared vs calendar-year cash paid; proposed vs actual,all SGX listed groups,cash vs approval confusion,B
+P2,Intercompany trading margins,"Related-party commodity sales, Singapore trading hub functions, transfer pricing disclosure",Wilmar/GAR/First,value capture by merchants and logistics unknown,C
+P2,Land and provincial allocation,Maps of oil-palm estates and coal concessions; separate Kalimantan from Sumatra,all groups,avoid imputing all production to Kalimantan,B
+P2,Cross-check NEA entity matching,Golden Agri International Pte Ltd vs Golden Agri-Resources Ltd; legal control before comparison,ACRA/SGX,different named legal persons,C

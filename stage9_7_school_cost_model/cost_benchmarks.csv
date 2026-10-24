@@ -1,0 +1,8 @@
+﻿benchmark_id,description,amount,unit,year,scope,source_ids,limitations,grade
+B01,Estimasi biaya pembangunan fisik Garuda Baru,200,Rp miliar/sekolah,2026,pembangunan saja,S02;S18,"Perkiraan otoritas, bukan harga kontrak; excludes opex",A/B
+B02,Estimasi gedung dan infrastruktur Garuda TTS,233,Rp miliar/sekolah,2025,pembangunan gedung+infrastruktur,S03,"Konteks satu proyek, belum operasional",B
+B03,Pagu pengadaan konstruksi Sulawesi Tenggara,218.167,Rp miliar/paket,2025-26,pagu tender konstruksi,S04,Bukan biaya total atau realisasi,B
+B04,Pagu pengadaan konstruksi Kalimantan Utara,297.121,Rp miliar/paket,2026,pagu tender konstruksi,S05,Bukan biaya total atau realisasi,B
+B05,RAPBN Sekolah Garuda sembilan lokasi,3000,Rp miliar/program,2026,program multi-lokasi pembangunan lanjutan,S01,Rp333.33B/lokasi BUKAN biaya proyek lengkap,A
+B06,Penerimaan tahun pertama per sekolah baru,160,siswa/angkatan,2026,kuota sekolah baru,S06,Mature 3 years x 160 = 480 siswa sebagai asumsi,A
+B07,"Rata-rata bantuan revitalisasi SD (6,328 proyek)",709.5448798988622,Rp juta/sekolah,2025,rata-rata bantuan bukan unit cost definitif,S13,Paket dan tingkat kerusakan berbeda; ≈709.55 juta,B

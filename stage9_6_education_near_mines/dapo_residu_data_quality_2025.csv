@@ -1,0 +1,3 @@
+﻿district,snapshot_date,total_pupils,nisn_residual_count,nisn_residual_pct,population_identity_residual_count,population_identity_residual_pct,district_code_residual_count,district_code_residual_pct,source_id,source_url,limitation
+Tabang,2025-07-18,2637,105,3.98,264,10.01,128,4.85,S11,https://referensi.data.kemdikbud.go.id/residu/pesertadidik/wilayah/160200/2,"Administrative data mismatch flags, not absence from school or low cognitive performance"
+Kembang Janggut,2025-07-18,8514,296,3.48,392,4.6,105,1.23,S11,https://referensi.data.kemdikbud.go.id/residu/pesertadidik/wilayah/160200/2,"Administrative data mismatch flags, not absence from school or low cognitive performance"

@@ -1,0 +1,13 @@
+﻿gap_id,missing_document_or_information,likely_source,priority,reason
+G01,2026 Sekolah Garuda final audited all-in construction cost by campus,Kemdiktisaintek; LPSE; LKPP,Critical,Tender HPS/pagu != final cost; avoid treating total CAPEX as official
+G02,2026 Garuda annual actual operating budget per pupil and per campus,Kemdiktisaintek; DIPA; RKAKL,Critical,Current model opex is deliberately hypothetical
+G03,"Separate scope BoQ for school buildings, dormitories, labs, utilities, site",SPSE; procurement annex,Critical,Risk of double counting between Rp200B physical and added categories
+G04,"School Garuda endowment yields, spending and protections against inflation",Kemdiktisaintek; LPDP; Ministry Finance,High,"Without this, sustainability is not demonstrated"
+G05,Number of Tabang 12-17yr students by village and routes/water crossings,BPS Kukar; Dinas Pendidikan; desa,Critical,16 villages without SMP do not imply 16 new SMPs required
+G06,"Tabang SMP seat capacity, occupancy, teacher vacancies, dropout and transition",Dapodik; school NPSN,Critical,Physical presence alone cannot set project priorities
+G07,Education transport annual per village and boarding alternative costs,Kukar Disdikbud; local cost survey,High,Need programmatic needs not just elite new schools
+G08,CSR/PPM Bayan program spending and impact by Tabang village,Bayan; ESDM PPM,Critical,Cannot directly attribute national PPM to Tabang
+G09,NUS/NTU disbursement and beneficiary data by origin,NUS LKYSPP; NTU; foundation,High,Distinguish Singapore institution from Singaporean citizen beneficiaries
+G10,Attributable value of Low share gift and real cash divestment,Bayan; BEI; KSEI,High,Market value stock gift not transferable fiscal appropriation
+G11,Annual budget reconciliations to Kemenkeu APBN enacted 2026,Kemenkeu; APBN 2026,Medium,RAPBN may differ from enacted/revised appropriation
+G12,Upgrade existing SD/SMP models based on verified local RAB projects,Kukar Disdikbud; LPSE,High,2025 mean SD revitalization is inadequate for single-school cost predictions

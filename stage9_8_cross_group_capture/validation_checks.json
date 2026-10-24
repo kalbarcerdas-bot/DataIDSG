@@ -1,0 +1,49 @@
+{
+  "cutoff": "2026-10-24",
+  "checks": [
+    {
+      "test": "Astra 2025 JCC DPS x shares June",
+      "pass": true
+    },
+    {
+      "test": "Astra 2025 JCC DPS x shares Oct",
+      "pass": true
+    },
+    {
+      "test": "Astra 2025 total Rp8.23703154624 T",
+      "pass": true
+    },
+    {
+      "test": "GEMS SG 7% * $210m",
+      "pass": true
+    },
+    {
+      "test": "Geo dividends 2025 3 parts",
+      "pass": true
+    },
+    {
+      "test": "Bumitama reported attributable FY2025 differs consolidated",
+      "pass": true
+    },
+    {
+      "test": "Singapore NEA notices count",
+      "pass": true
+    },
+    {
+      "test": "Indonesia NEA PMN count",
+      "pass": true
+    },
+    {
+      "test": "company panel entries",
+      "pass": true
+    },
+    {
+      "test": "revenue and currency not aggregated",
+      "pass": true
+    },
+    {
+      "test": "sources documented",
+      "pass": true
+    }
+  ]
+}

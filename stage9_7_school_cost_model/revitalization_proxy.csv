@@ -1,0 +1,9 @@
+﻿variable,value,source_ids,limitations
+reported_total_idr_bn,4490,S13,"Total bantuan revit SD nationwide 2025, not guarantee realized all by individual school"
+recipient_schools,6328,S13,"Recipients, differing project scopes"
+mean_per_school_idr_bn,0.709545,calc,Average observed allocation only; NOT cost of building a new SMP/SMA
+hypothetical_equivalent_rehab_F01,143536,derived from S13;S10;S11,"Only equivalence against historical mean SD revitalization, not actual projects or new school costs"
+hypothetical_equivalent_rehab_F02,1608,derived from S13;S07;S08,"Only equivalence against historical mean SD revitalization, not actual projects or new school costs"
+hypothetical_equivalent_rehab_F03,137,derived from S13;S09;S17,"Only equivalence against historical mean SD revitalization, not actual projects or new school costs"
+hypothetical_equivalent_rehab_F04,281,derived from S13;S16,"Only equivalence against historical mean SD revitalization, not actual projects or new school costs"
+hypothetical_equivalent_rehab_F05,47,derived from S13;S15,"Only equivalence against historical mean SD revitalization, not actual projects or new school costs"

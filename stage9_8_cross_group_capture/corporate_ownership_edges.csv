@@ -1,0 +1,14 @@
+﻿from_entity,to_entity,relationship,from_jurisdiction,to_jurisdiction,percent_date,caution,source_ids
+Geo Energy Resources,PT Sungai Danau Jaya etc.,operation,Indonesia,Singapore SGX group,n/a,coal mines and logistics in Indonesia,SRC01
+PT Geo Energy Investama,PT Golden Eagle Energy Tbk,shareholder,Indonesia,Geo Energy group Singapore,73.11% at 2024,"Overlapping link to Geo group, don't duplicate coal tonnage without segment reconciliation",SRC01
+PT Dian Swastatika Sentosa Tbk,PT Golden Energy Mines Tbk,direct share,Indonesia,Indonesia,51.0% FY2025,Indonesian majority GEMS,SRC02
+Golden Energy and Resources Ltd,PT Golden Energy Mines Tbk,direct share,Singapore,Indonesia,~7.0% FY2025,GEAR delisted SGX in 2023; not all of GEMS ownership resides in SG,SRC02|SRC06
+Wellpoint Pacific Holdings,Bumitama Agri Ltd,deemed family ownership,Offshore,Singapore SGX parent,52.277% 2026,Hariyanto family deemed interest; offshore vehicle not proof of SG resident investor,SRC07
+IOI Corporation Berhad via Oakridge,Bumitama Agri Ltd,deemed ownership,Malaysia,Singapore SGX parent,~32.10% 2026,Malaysia IOI shareholder interest; different from SG resident benefit,SRC07
+Widjaja Family Master Trust,Golden Agri-Resources Ltd,beneficial/deemed interest,Trust nationality/residence unverified,SGX,50.56% Mar2026,"Ownership via Flambo and subsidiaries, not Singapore state",SRC12
+Kuok Group,Wilmar International,group interests aggregated,Multiple,Singapore,34.15% Sep2026 factsheet,Aggregate from Wilmar issuer; don't add component holdings twice,SRC15
+ADM group,Wilmar International,group interest,United States parent via SG vehicle,Singapore,22.49% Mar2026,Singapore share custody != resident benefit,SRC15
+Eight Capital Inc.,First Resources Limited,direct substantial shareholding,Shareholder legal domicile unverified,Singapore,67.5% Mar2026,Trust beneficial allocations not fixed; no residency inference,SRC18|SRC27
+First Resources Limited,PT Austindo Nusantara Jaya Tbk,direct control,Singapore,Indonesia,95.92% Mar2026,"Acquired May2025, historical 2024 figures not comparable due acquisition",SRC27
+Jardine Cycle & Carriage Limited,PT Astra International Tbk,direct control,Singapore,Indonesia,50.11% Dec2025,"Astra multi-sector, not all coal",SRC21
+Jardine Matheson Holdings,Jardine Cycle & Carriage Limited,controlling interest,Parent Bermuda/HK,Singapore,~85% FY2025,Singapore legal ownership not Singapore citizen ultimate owner,SRC24
