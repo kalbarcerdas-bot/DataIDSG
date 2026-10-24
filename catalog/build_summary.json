@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-24",
+  "input_archive": "Indonesia_Singapura_Value_Capture_Tahap1-8_dan_RisetBayan9_1_sampai_9_8.zip",
+  "input_sha256": "e0969d42e43a5356f728de7d57f31e72a73706247d8695e5714d48c71a2585a8",
+  "archived_file_count": 164,
+  "data_catalog_files": 164,
+  "structured_csv_files": 103,
+  "source_entries": 224,
+  "research_gaps_count": 144,
+  "public_csv_count": 13,
+  "claims_count": 16,
+  "years_covered": "1994–2026 (varies by table; blank placeholders are NOT observations)",
+  "limitations": [
+    "No independent internet re-verification during packaging.",
+    "No transfer of net cash to Singapore can be inferred solely from shared ownership.",
+    "Citations and provenance live in the original source registries.",
+    "All research original files preserved, public files curated but still require editorial verification."
+  ]
+}

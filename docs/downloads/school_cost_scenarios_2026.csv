@@ -1,0 +1,4 @@
+﻿scenario,steady_state_students,main_school_idr_bn,dorm_and_teacher_housing_idr_bn,labs_and_equipment_idr_bn,site_and_utilities_idr_bn,contingency_pct,capex_idr_bn,staff_idr_bn_per_year,boarding_idr_million_student_year,learning_idr_million_student_year,maintenance_pct_capex,student_transport_idr_bn_per_year,opex_idr_bn_per_year,ten_year_total_idr_bn,twenty_year_total_idr_bn,method_notes
+Hemat,480,200,20,15,10,0.1,269.5,8,24,10,0.015,2,30.3625,573.125,876.75,"Batas bawah rancangan hipotetis; inti Rp200 miliar adalah benchmark pemerintah, komponen lain asumsi."
+Dasar,480,220,40,25,15,0.1,330.0,12,36,15,0.02,3,46.080000000000005,790.8000000000001,1251.6000000000001,"Skenario perencanaan, BUKAN estimasi final Garuda; 480 siswa saat 3 angkatan penuh."
+Tinggi,480,300,70,45,30,0.1,489.50000000000006,18,48,25,0.03,5,72.725,1216.75,1944.0,"Lebih tinggi untuk logistik lokasi terpencil, fasilitas, staf, dan pemeliharaan; seluruhnya ilustrasi."

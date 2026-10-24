@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bayan_tonnage_2008_2025",
+    "label": "Produksi batu bara Bayan, 2008–2025",
+    "value": 468.4,
+    "unit": "juta ton",
+    "status": "reconstructed_with_secondary_early_years",
+    "source": "research/dataset_tahap/stage9_1_bayan_extraction/bayan_annual_panel_2008_2026H1.csv"
+  },
+  {
+    "id": "bayan_revenue_2008_2025",
+    "label": "Pendapatan konsolidasi Bayan, 2008–2025",
+    "value": 31696.5,
+    "unit": "juta USD",
+    "status": "reconstructed_restated_years_and_secondary_early_years",
+    "source": "research/dataset_tahap/stage9_1_bayan_extraction/bayan_annual_panel_2008_2026H1.csv"
+  },
+  {
+    "id": "bayan_revenue_2025",
+    "label": "Pendapatan konsolidasi Bayan, FY2025",
+    "value": 3427.576485,
+    "unit": "juta USD",
+    "status": "company_reported",
+    "source": "research/dataset_tahap/stage9_1_bayan_extraction/bayan_annual_panel_2008_2026H1.csv"
+  },
+  {
+    "id": "tabang_villages_total",
+    "label": "Desa di Kecamatan Tabang, data 2023",
+    "value": 19,
+    "unit": "desa",
+    "status": "BPS_2023",
+    "source": "research/stage9_6_education_near_mines/tabang_19_villages_school_presence.csv"
+  },
+  {
+    "id": "tabang_villages_with_smp",
+    "label": "Desa Tabang memiliki SMP setempat, data 2023",
+    "value": 3,
+    "unit": "desa",
+    "status": "BPS_2023",
+    "source": "research/stage9_6_education_near_mines/tabang_19_villages_school_presence.csv"
+  }
+]

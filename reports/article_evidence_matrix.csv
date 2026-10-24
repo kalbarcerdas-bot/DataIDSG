@@ -1,0 +1,17 @@
+﻿claim_id,theme,status,article,source_path,needs_manual_review,caveat
+C001,Ekstraksi,RECONSTRUCTION,article-extraction,research/stage9_1_bayan_extraction/bayan_annual_panel_2008_2026H1.csv,yes,Penjumlahan produksi tahunan; tahun awal memakai sumber sekunder; 2026 H1 tidak termasuk
+C002,Ekstraksi,REPORTED,article-extraction,research/stage9_1_bayan_extraction/bayan_annual_panel_2008_2026H1.csv,yes,"Pendapatan konsolidasi tidak sama dengan laba, nilai tambah domestik, atau arus uang Singapura"
+C003,Dividen,REPORTED_SERIES,article-dividends,research/stage9_2_bayan_dividends/bayan_dividends_by_payment_year.csv,yes,Tahun pembayaran; total tidak boleh diatribusikan seluruhnya kepada keluarga Low
+C004,Kepemilikan,REPORTED,article-ownership,research/stage9_3_bayan_share_transfers/transaction_events_2024_2026.csv,yes,Bukan bukti perpindahan uang tunai keluar negeri; status kewarganegaraan butuh sumber primer atau pengungkapan
+C005,Dividen,ESTIMATE,article-dividends,research/stage9_2_bayan_dividends/bayan_dividend_beneficiary_estimates.csv,yes,Proxy jumlah saham perlu rekonsiliasi recording date; bukan penerimaan neto/transfer luar negeri
+C006,Filantropi,REPORTED,article-philanthropy,research/stage9_5_low_philanthropy/donation_commitment_ledger.csv,yes,Donasi ke universitas Singapura bukan otomatis untuk warga Singapura saja
+C007,Filantropi,PLEDGE,article-philanthropy,research/stage9_5_low_philanthropy/donation_commitment_ledger.csv,yes,Janji donasi; pelaksanaan dan jadwal pencairan perlu pemeriksaan
+C008,Filantropi,RECONSTRUCTION,article-philanthropy,research/stage9_5_low_philanthropy/education_ppm_annual.csv,yes,Bukan seluruh kegiatan filantropi keluarga/perusahaan di Indonesia
+C009,Pendidikan,REPORTED_AND_REGISTRY,article-education,research/stage9_6_education_near_mines/tabang_19_villages_school_presence.csv,yes,Tidak berarti anak dari 16 desa lain tidak bisa bersekolah
+C010,Sekolah Garuda,ILLUSTRATION,article-school-costs,research/stage9_7_school_cost_model/comparisons_funding.csv,yes,"Bukan anggaran tunai, bukan estimasi biaya hidup-operasional penuh"
+C011,Sekolah Garuda,SCENARIO,article-school-costs,research/stage9_7_school_cost_model/scenario_school_costs.csv,yes,"Asumsi hipotetis, bukan RAB disahkan pemerintah"
+C012,Perusahaan,ESTIMATE,article-groups,research/stage9_8_cross_group_capture/dividend_value_capture_ledger.csv,yes,Penerima berbadan hukum Singapura ≠ seluruhnya manfaat warga Singapura; recording date perlu verifikasi
+C013,Keuangan lintas negara,UNPROVEN,article-ownership,research/stage9_4_low_singapore_network/transaction_flow_ledger.csv,yes,Tidak ada bukti lengkap rekening/arus kas; jangan diterbitkan sebagai fakta
+C014,Motif,UNPROVEN,article-ownership,research/stage9_3_bayan_share_transfers/research_questions_regulatory.csv,yes,Tidak ada bukti motif atau putusan hukum; hanya isu untuk audit regulasi
+C015,Kognitif,UNSUPPORTED,article-education,research/stage9_6_education_near_mines/education_indicators_master.csv,yes,Tidak ada studi IQ representatif per provinsi; jangan diterbitkan sebagai temuan faktual
+C016,Karhutla,REGULATORY_ACTION,article-groups,research/stage9_8_cross_group_capture/nea_haze_notices_2026.csv,yes,Permintaan dokumen bukan bukti menyebabkan kebakaran atau melanggar hukum

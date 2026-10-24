@@ -1,0 +1,128 @@
+[
+  {
+    "year": 2008,
+    "production_million_tonnes": 5.9,
+    "revenue_usd_million": 441.362888,
+    "production_evidence_grade": "B",
+    "revenue_evidence_grade": "B"
+  },
+  {
+    "year": 2009,
+    "production_million_tonnes": 11.4,
+    "revenue_usd_million": 822.579082,
+    "production_evidence_grade": "B",
+    "revenue_evidence_grade": "B"
+  },
+  {
+    "year": 2010,
+    "production_million_tonnes": 11.9,
+    "revenue_usd_million": 962.38664,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2011,
+    "production_million_tonnes": 15.6,
+    "revenue_usd_million": 1509.261938,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2012,
+    "production_million_tonnes": 16.3,
+    "revenue_usd_million": 1422.880281,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2013,
+    "production_million_tonnes": 13.7,
+    "revenue_usd_million": 1147.467928,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2014,
+    "production_million_tonnes": 9.6,
+    "revenue_usd_million": 828.259942,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2015,
+    "production_million_tonnes": 11.3,
+    "revenue_usd_million": 465.007423,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2016,
+    "production_million_tonnes": 9.7,
+    "revenue_usd_million": 555.483921,
+    "production_evidence_grade": "B",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2017,
+    "production_million_tonnes": 20.9,
+    "revenue_usd_million": 1067.376037,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2018,
+    "production_million_tonnes": 28.9,
+    "revenue_usd_million": 1676.717292,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2019,
+    "production_million_tonnes": 31.9,
+    "revenue_usd_million": 1391.589834,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2020,
+    "production_million_tonnes": 30.2,
+    "revenue_usd_million": 1395.113268,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2021,
+    "production_million_tonnes": 37.6,
+    "revenue_usd_million": 2852.219928,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2022,
+    "production_million_tonnes": 38.9,
+    "revenue_usd_million": 4703.622038,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2023,
+    "production_million_tonnes": 49.7,
+    "revenue_usd_million": 3581.375403,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2024,
+    "production_million_tonnes": 56.9,
+    "revenue_usd_million": 3446.214954,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  },
+  {
+    "year": 2025,
+    "production_million_tonnes": 68.0,
+    "revenue_usd_million": 3427.576485,
+    "production_evidence_grade": "A",
+    "revenue_evidence_grade": "A"
+  }
+]

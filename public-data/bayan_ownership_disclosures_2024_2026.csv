@@ -1,0 +1,24 @@
+﻿snapshot_id,as_of_date,stage,holder,shares,issued_shares,direct_ownership_percent_calculated,evidence_status,source_ids,notes
+SP_20240827,2024-08-27,pre_gift,Low Tuck Kwong,20716816570,33333335000,62.1504466,B,GIFT_PRICE_2024,Reported disclosure; other shareholding not modeled
+SP_20240827,2024-08-27,pre_gift,Elaine Low,0,33333335000,0.0,B,GIFT_PRICE_2024,Reported disclosure; other shareholding not modeled
+SP_20240828,2024-08-28,post_gift,Low Tuck Kwong,13383482870,33333335000,40.1504466,B,GIFT_PRICE_2024,Immediately after gift; exclude later acquisitions
+SP_20240828,2024-08-28,post_gift,Elaine Low,7333333700,33333335000,22.0,B,GIFT_PRICE_2024,Immediately after gift; exclude later acquisitions
+SP_20241231,2024-12-31,year_end,Low Tuck Kwong,13389835770,33333335000,40.1695053,A,AR24:p56,Printed annual report Table >5% holders
+SP_20241231,2024-12-31,year_end,Elaine Low,7333833700,33333335000,22.0015,A,AR24:p56,Printed annual report Table >5% holders
+SP_20241231,2024-12-31,year_end,PT Sumber Suryadaya Prima,3333380000,33333335000,10.0001395,A,AR24:p56,Printed annual report Table >5% holders
+SP_20261005,2026-10-05,before_family_cross,Low Tuck Kwong,13416921870,33333335000,40.2507636,B,6OCT26,Reconstructed from Oct 6 transaction and later holdings
+SP_20261005,2026-10-05,before_family_cross,Elaine Low,7333833700,33333335000,22.0015,B,6OCT26,Reconstructed from Oct 6 transaction and later holdings
+SP_20261006,2026-10-06,after_family_cross,Low Tuck Kwong,13383588535,33333335000,40.1507636,B,6OCT26,Reconciles to Jhonlin closing quantities
+SP_20261006,2026-10-06,after_family_cross,Elaine Low,7367167035,33333335000,22.1015,B,6OCT26,Reconciles to Jhonlin closing quantities
+SP_20261007,2026-10-07,after_jhonlin_closing,Low Tuck Kwong,3316166832,33333335000,9.9485,B,CLOSING_2026,Jhonlin buyer stakes reconciled
+SP_20261007,2026-10-07,after_jhonlin_closing,Elaine Low,7350500368,33333335000,22.0515,B,CLOSING_2026,Jhonlin buyer stakes reconciled
+SP_20261007,2026-10-07,after_jhonlin_closing,PT Jhonlin Baratama,10084088370,33333335000,30.2522636,B,CLOSING_2026,Jhonlin buyer stakes reconciled
+SP_20261013,2026-10-13,after_first_repurchase,Low Tuck Kwong,3316666832,33333335000,9.95,B,REBUY_2026,+500k shares
+SP_20261013,2026-10-13,after_first_repurchase,Elaine Low,7350500368,33333335000,22.0515,B,REBUY_2026,+500k shares
+SP_20261013,2026-10-13,after_first_repurchase,PT Jhonlin Baratama,10084088370,33333335000,30.2522636,B,REBUY_2026,+500k shares
+SP_20261014,2026-10-14,after_second_repurchase,Low Tuck Kwong,3416667832,33333335000,10.25000298,B,REBUY_2026,"+100,001,000 shares"
+SP_20261014,2026-10-14,after_second_repurchase,Elaine Low,7350500368,33333335000,22.0515,B,REBUY_2026,"+100,001,000 shares"
+SP_20261014,2026-10-14,after_second_repurchase,PT Jhonlin Baratama,10084088370,33333335000,30.2522636,B,REBUY_2026,"+100,001,000 shares"
+SP_20261019,2026-10-19,KSEI_reported_as_of,Low Tuck Kwong,2766667800,33333335000,8.30000298,B,22OCT26; 22OCT26_BEI,KSEI figure quoted by issuer; no claims about other beneficial owners
+SP_20261019,2026-10-19,KSEI_reported_as_of,Elaine Low,7333833700,33333335000,22.0015,B,22OCT26; 22OCT26_BEI,KSEI figure quoted by issuer; no claims about other beneficial owners
+SP_20261019,2026-10-19,KSEI_reported_as_of,PT Jhonlin Baratama,10084088370,33333335000,30.2522636,B,22OCT26; 22OCT26_BEI,KSEI figure quoted by issuer; no claims about other beneficial owners

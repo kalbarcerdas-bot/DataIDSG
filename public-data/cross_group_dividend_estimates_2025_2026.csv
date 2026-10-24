@@ -1,0 +1,14 @@
+﻿event_id,paying_company,recipient_or_class,payment_date_or_basis,payment_calendar_year,shares_used,dividend_per_share,dps_unit,reported_total,reported_total_unit,recipient_interest_pct,estimate_method,evidence_status,source_ids
+D01,Astra International,Jardine Cycle & Carriage,2025-06-05,2025,20288255040,308,IDR/share,,IDR,50.11,number_shares_x_DPS,B: reconstructed; exact recording-date shares require check,SRC21|SRC22
+D02,Astra International,Jardine Cycle & Carriage,2025-10-31,2025,20288255040,98,IDR/share,,IDR,50.11,number_shares_x_DPS,B: reconstructed; exact recording-date shares require check,SRC21|SRC23
+D03,Astra International,Jardine Cycle & Carriage,2026-05-25,2026,20288255040,292,IDR/share,,IDR,50.11,number_shares_x_DPS,"B: indicative; company share buybacks, exact recording date verify",SRC21|SRC23
+D04,Golden Energy Mines,All shareholders,2025-06-05,2025,,,n/a,110,USD million,,reported_total,A: final FY2024 paid Jun2025,SRC05|SRC04
+D05,Golden Energy Mines,All shareholders,2025-06-24,2025,,,n/a,100,USD million,,reported_total,A: interim FY2025 paid Jun2025,SRC29|SRC04
+D06,Golden Energy Mines,Golden Energy and Resources (SG entity),2025 (proxy),2025,,,n/a,14.7,USD million,7.0,7%*(110+100),"C: indicative only, ownership % at recording dates not confirmed; D04 & D05 overlap, never sum together",SRC02|SRC05
+D07,Geo Energy Resources,All shareholders,2025 (full calendar),2025,,,n/a,11.360497,USD million,,reported_total,"A: actual paid shareholder dividends, recipient domiciles unknown",SRC01
+D08,Golden Agri-Resources,All shareholders,2025 (full calendar),2025,,,n/a,78.337,USD million,,reported_total,A: prior-year final dividend paid during 2025; SG investor identity breakdown unknown,SRC10
+D09,Golden Agri-Resources,All shareholders,2026 (proposed FY2025 final),2026,,,n/a,93.953,USD million,,reported_total,"B: proposal, not 2025 cash; verification of final approval/payment needed",SRC10
+D10,Bumitama Agri,All shareholders,FY2025 declaration,2025,,0.0935,SGD/share,,SGD,,rate_only,A: full FY2025 entitlement 9.35 cents/share incl final proposed in 2026; payment year differs,SRC08
+D11,First Resources,All shareholders,2025-09-10,2025,,0.045,SGD/share,,SGD,,rate_only,A: paid interim FY2025,SRC20
+D12,First Resources,All shareholders,2026-05-15,2026,,0.102,SGD/share,,SGD,,rate_only,A: paid FY2025 final after AGM,SRC19
+D13,Wilmar International,All shareholders,FY2025 declared,2025,,0.14,SGD/share,,SGD,,rate_only,"A: FY2025 annual dividend rate, payment calendar not fully checked",SRC13

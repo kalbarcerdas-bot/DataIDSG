@@ -1,0 +1,146 @@
+[
+  {
+    "claim_id": "C001",
+    "theme": "Ekstraksi",
+    "claim": "Bayan total produksi FY2008–FY2025 diperkirakan sekitar 468,4 juta ton",
+    "status": "RECONSTRUCTION",
+    "source_path": "research/stage9_1_bayan_extraction/bayan_annual_panel_2008_2026H1.csv",
+    "publication_caveat": "Penjumlahan produksi tahunan; tahun awal memakai sumber sekunder; 2026 H1 tidak termasuk",
+    "article_slug": "article-extraction"
+  },
+  {
+    "claim_id": "C002",
+    "theme": "Ekstraksi",
+    "claim": "Pendapatan Bayan FY2025 sekitar US$3,428 miliar",
+    "status": "REPORTED",
+    "source_path": "research/stage9_1_bayan_extraction/bayan_annual_panel_2008_2026H1.csv",
+    "publication_caveat": "Pendapatan konsolidasi tidak sama dengan laba, nilai tambah domestik, atau arus uang Singapura",
+    "article_slug": "article-extraction"
+  },
+  {
+    "claim_id": "C003",
+    "theme": "Dividen",
+    "claim": "Dividen Bayan 2021–2025 sekitar US$4,6 miliar kepada semua pemegang saham",
+    "status": "REPORTED_SERIES",
+    "source_path": "research/stage9_2_bayan_dividends/bayan_dividends_by_payment_year.csv",
+    "publication_caveat": "Tahun pembayaran; total tidak boleh diatribusikan seluruhnya kepada keluarga Low",
+    "article_slug": "article-dividends"
+  },
+  {
+    "claim_id": "C004",
+    "theme": "Kepemilikan",
+    "claim": "22% saham Bayan dihibahkan Low kepada Elaine tahun 2024",
+    "status": "REPORTED",
+    "source_path": "research/stage9_3_bayan_share_transfers/transaction_events_2024_2026.csv",
+    "publication_caveat": "Bukan bukti perpindahan uang tunai keluar negeri; status kewarganegaraan butuh sumber primer atau pengungkapan",
+    "article_slug": "article-ownership"
+  },
+  {
+    "claim_id": "C005",
+    "theme": "Dividen",
+    "claim": "Estimasi hak dividen bruto Elaine atas pembayaran 2025–2026 sekitar Rp4,45 triliun",
+    "status": "ESTIMATE",
+    "source_path": "research/stage9_2_bayan_dividends/bayan_dividend_beneficiary_estimates.csv",
+    "publication_caveat": "Proxy jumlah saham perlu rekonsiliasi recording date; bukan penerimaan neto/transfer luar negeri",
+    "article_slug": "article-dividends"
+  },
+  {
+    "claim_id": "C006",
+    "theme": "Filantropi",
+    "claim": "Low Tuck Kwong Foundation mengumumkan hibah S$101 juta kepada NUS tahun 2023",
+    "status": "REPORTED",
+    "source_path": "research/stage9_5_low_philanthropy/donation_commitment_ledger.csv",
+    "publication_caveat": "Donasi ke universitas Singapura bukan otomatis untuk warga Singapura saja",
+    "article_slug": "article-philanthropy"
+  },
+  {
+    "claim_id": "C007",
+    "theme": "Filantropi",
+    "claim": "Yayasan mengumumkan S$8 juta untuk NTU tahun 2025",
+    "status": "PLEDGE",
+    "source_path": "research/stage9_5_low_philanthropy/donation_commitment_ledger.csv",
+    "publication_caveat": "Janji donasi; pelaksanaan dan jadwal pencairan perlu pemeriksaan",
+    "article_slug": "article-philanthropy"
+  },
+  {
+    "claim_id": "C008",
+    "theme": "Filantropi",
+    "claim": "Bayan melaporkan alokasi pendidikan PPM 2022–2025 total Rp33,52 miliar",
+    "status": "RECONSTRUCTION",
+    "source_path": "research/stage9_5_low_philanthropy/education_ppm_annual.csv",
+    "publication_caveat": "Bukan seluruh kegiatan filantropi keluarga/perusahaan di Indonesia",
+    "article_slug": "article-philanthropy"
+  },
+  {
+    "claim_id": "C009",
+    "theme": "Pendidikan",
+    "claim": "Dari 19 desa di Tabang, 3 memiliki SMP setempat dalam rujukan 2023",
+    "status": "REPORTED_AND_REGISTRY",
+    "source_path": "research/stage9_6_education_near_mines/tabang_19_villages_school_presence.csv",
+    "publication_caveat": "Tidak berarti anak dari 16 desa lain tidak bisa bersekolah",
+    "article_slug": "article-education"
+  },
+  {
+    "claim_id": "C010",
+    "theme": "Sekolah Garuda",
+    "claim": "Rp101,8 triliun setara sekitar 509 kali konstruksi fisik Rp200 miliar",
+    "status": "ILLUSTRATION",
+    "source_path": "research/stage9_7_school_cost_model/comparisons_funding.csv",
+    "publication_caveat": "Bukan anggaran tunai, bukan estimasi biaya hidup-operasional penuh",
+    "article_slug": "article-school-costs"
+  },
+  {
+    "claim_id": "C011",
+    "theme": "Sekolah Garuda",
+    "claim": "Model dasar 20 tahun setara sekitar 81 sekolah berasrama",
+    "status": "SCENARIO",
+    "source_path": "research/stage9_7_school_cost_model/scenario_school_costs.csv",
+    "publication_caveat": "Asumsi hipotetis, bukan RAB disahkan pemerintah",
+    "article_slug": "article-school-costs"
+  },
+  {
+    "claim_id": "C012",
+    "theme": "Perusahaan",
+    "claim": "Astra–Jardine 2025: estimasi hak dividen bruto sekitar Rp8,237 triliun",
+    "status": "ESTIMATE",
+    "source_path": "research/stage9_8_cross_group_capture/dividend_value_capture_ledger.csv",
+    "publication_caveat": "Penerima berbadan hukum Singapura ≠ seluruhnya manfaat warga Singapura; recording date perlu verifikasi",
+    "article_slug": "article-groups"
+  },
+  {
+    "claim_id": "C013",
+    "theme": "Keuangan lintas negara",
+    "claim": "Kekayaan pribadi Low seluruhnya dipindahkan ke Singapura",
+    "status": "UNPROVEN",
+    "source_path": "research/stage9_4_low_singapore_network/transaction_flow_ledger.csv",
+    "publication_caveat": "Tidak ada bukti lengkap rekening/arus kas; jangan diterbitkan sebagai fakta",
+    "article_slug": "article-ownership"
+  },
+  {
+    "claim_id": "C014",
+    "theme": "Motif",
+    "claim": "Hibah saham 2024 dilakukan untuk menghindari pajak atau aturan Indonesia",
+    "status": "UNPROVEN",
+    "source_path": "research/stage9_3_bayan_share_transfers/research_questions_regulatory.csv",
+    "publication_caveat": "Tidak ada bukti motif atau putusan hukum; hanya isu untuk audit regulasi",
+    "article_slug": "article-ownership"
+  },
+  {
+    "claim_id": "C015",
+    "theme": "Kognitif",
+    "claim": "Kalimantan memiliki IQ terendah nasional atau setara simpanse",
+    "status": "UNSUPPORTED",
+    "source_path": "research/stage9_6_education_near_mines/education_indicators_master.csv",
+    "publication_caveat": "Tidak ada studi IQ representatif per provinsi; jangan diterbitkan sebagai temuan faktual",
+    "article_slug": "article-education"
+  },
+  {
+    "claim_id": "C016",
+    "theme": "Karhutla",
+    "claim": "Surat permintaan dokumen NEA kepada beberapa grup sawit Oktober 2026",
+    "status": "REGULATORY_ACTION",
+    "source_path": "research/stage9_8_cross_group_capture/nea_haze_notices_2026.csv",
+    "publication_caveat": "Permintaan dokumen bukan bukti menyebabkan kebakaran atau melanggar hukum",
+    "article_slug": "article-groups"
+  }
+]
