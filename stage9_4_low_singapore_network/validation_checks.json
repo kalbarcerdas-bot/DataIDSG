@@ -1,0 +1,13 @@
+{
+  "eri_plus_kaiyi_metis_ownership_pct": true,
+  "eri_plus_kaiyi_metis_shares": true,
+  "pt_kp_pre_sellers_shares_total": true,
+  "pt_kp_pre_sellers_share_percent_rounded": true,
+  "pt_kp_post_buyers_percent": true,
+  "ocpl_interest_expense_2025_and_h126_separate": true,
+  "shareholder_pct_kaiyi_partial_under_100": true,
+  "metis_interest_deemed_not_added_to_control_direct": true,
+  "verified_slm_proceeds_exact": true,
+  "2026_facility_limit_not_counted_as_drawn": true,
+  "2023_debt_repayment_not_marked_cash_confirmed": true
+}

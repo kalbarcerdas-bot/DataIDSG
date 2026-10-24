@@ -1,0 +1,9 @@
+﻿test_id,test,result,checked_count,notes
+V001,entity_relation_ids_exist,PASS,57,Both endpoints of each relation resolved in entity registry
+V002,source_ids_resolvable,PASS,57,Every ownership edge has an entry in source registry
+V003,GAR_direct_holder_total,PASS,4,2.05+16.56+7.74+24.21=50.56; do not add 50.56 deemed interest again
+V004,Geo_Master_holder_sum,PASS,5,19.6+26.4+18+18+18=100 for Master Resources International Limited; not direct GEO shares
+V005,Bumitama_precision_from_primary,PENDING,4,SGX official slide confirms 52%/32%; finer exact percentages reproduced by secondary extract need check original annual report p139
+V006,FY2025_as_of_dates,PASS_WITH_LIMITATION,6,March 2026 shareholders cannot automatically be applied as at 2025-12-31; only child Astra and ANJ snapshots separately verified
+V007,beneficiary_residency_attribution,NOT_AVAILABLE,6,No complete six-group final Singapore-resident beneficiary allocation is independently verified
+V008,dividend_remittance_value,NOT_AVAILABLE,6,Ownership positions do not establish dividend cash flows from Indonesia

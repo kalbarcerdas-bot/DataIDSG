@@ -1,0 +1,13 @@
+﻿metric,value,unit,definition_caveat,sources,evidence_status
+gift_2024_shares,7333333700,shares,Gift amount from official AR24 p64,AR24,A
+gift_2024_implied_cross_value_idr,101845338425600,IDR,"Price Rp13,888 per share from press; price disputed; this is NOT cash proceeds",GIFT_PRICE_2024;GIFT_PRICE_ALT,B
+jhonlin_2026_total_shares,10084088370,shares,"10,067,421,703 Low + 16,666,667 Elaine",CLOSING_2026,B
+jhonlin_2026_implied_gross_value_idr,26097620701560,IDR,"Price Rp2,588/share",CLOSING_PRICE,B
+later_sale_oct15_shares,666666700,shares,"650,000,032 Low + 16,666,668 Elaine; buyer unknown",SALE_15OCT;22OCT26,B
+later_sale_oct15_implied_gross_value_idr,1725333419600,IDR,"Price Rp2,588/share; buyer unknown",SALE_15OCT;22OCT26,B
+gross_oct_2026_two_external_sales_idr,27822954121160,IDR,"Gross at disclosed negotiated price, excluding family sale Oct6 and purchases Oct13-14; not net cash or foreign outflow",CLOSING_PRICE;SALE_15OCT,B
+low_elaine_oct19_direct_shares,10100501500,shares,Direct holdings combined; not proof of independent votes/control,22OCT26,B
+jhonlin_oct19_direct_shares,10084088370,shares,As per issuer quote of KSEI,22OCT26,B
+oct14_vs_2588_gap_percent,76.892857,percent,"Comparison of different transaction dates, sizes, market conditions and buyers; not fair value conclusion",22OCT26_BEI,calculated
+unverified_oct15_purchaser,,unknown,Do not equate 15 Oct buyer with Jhonlin absent records,22OCT26_BEI,OPEN
+change_of_control,,unknown,Issuer said no notified new controller as of 22 Oct; control subject to governance/voting rights,22OCT26,OPEN

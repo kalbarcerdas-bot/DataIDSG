@@ -1,0 +1,9 @@
+﻿check,actual,expected,status
+companies_registered,6,6,PASS
+group_year_rows,26,26,PASS
+geo_production_vs_customer_revenue,separate,separate,PASS
+jcc_indonesia_contribution_years,5,5,PASS
+jcc_indonesia_5yr_sum_usd_m,4642.5,4642.5,PASS
+directly_attributed_indonesia_profit_non_jcc,0,0,NOT_IDENTIFIED
+ownership_entries,6,6,PASS
+related_party_amounts_extracted,0,0,PENDING

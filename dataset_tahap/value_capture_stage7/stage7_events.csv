@@ -1,0 +1,11 @@
+﻿company_id,event_name,event_date,description,source_id
+FIRST,ANJ takeover,2025-05-31,First Resources held 91.17% of ANJ as of end May 2025,ANJ_AR25
+FIRST,ANJ increased holding,2025-12-31,First Resources 95.92% ANJ at end 2025; later snapshot replaces May holding,ANJ_AR25
+GEO,consideration shares,2026-01-08,"253308000 shares issued as purchase consideration connected with shipping acquisitions, changed Charles Melati share count",GEO_AR25
+JCC,corporate rename,2026,Jardine Cycle & Carriage renamed Jardine Matheson Southeast Asia Limited; effective day not verified in this extract,JC_RENAME
+JMH,portfolio holding snapshot,2026-03-10,Effective Jardine interest in JCC 85.5%,JMH_AR25
+GAR,ownership snapshot,2026-03-10,Flambo family trust deemed block 50.56%,GAR_HOLD
+BUMI,ownership snapshot,2026-03-11,"Wellpoint about 52%; IOI about 32%, and distinction vs nominee register",BUMI_SGX25
+WILMAR,substantial holdings snapshot,2026-03-03,Direct/deemed holders per Wilmar annual report,WILMAR_AR25
+FIRST,ownership snapshot,2026-03-13,Eight Capital 67.5%; Infinite Capital 5.8%,FIRST_STOCK
+GEO,substantial holdings snapshot,2026-03-17,"Charles Melati 29.47%, Master Resources 12.52%, Resource Invest AG 5.48%",GEO_AR25

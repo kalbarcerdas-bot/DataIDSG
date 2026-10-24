@@ -1,0 +1,7 @@
+﻿investor,investee,as_of,relationship,ownership_pct,source_id,notes
+JCC,PT Astra International Tbk,2025-12-31,direct_shareholder,50.11,ASTRA_SHARE,"Entity ownership only, not ultimate Singapore nationality"
+FIRST,PT Austindo Nusantara Jaya Tbk,2025-05,acquisition_completion,91.17,FIRST_ACQ,Initial controlling shareholding; annual statements from May 2025
+FIRST,PT Austindo Nusantara Jaya Tbk,2025-12-31,direct_shareholder,95.92,ANJ_OWN,Later increase after mandatory tender offer; do not count same ownership twice
+GEO,PT Internasional Prima Coal,2025-12-31,equity_interest,49.0,GEO_PROFILE,Joint venture; operating income treatment differs from controlled subsidiary
+Flambo International Ltd,GAR,2026-03-10,shareholder,50.56,GAR_SHARE,Widjaja Family Master Trust upstream; not automatically Singapore ultimate ownership
+Jardine Matheson Group,JCC,2026,reported_majority_ownership_approx,85,JCC_SHARE,Approximate latest corporate statement; parent multinational

@@ -1,0 +1,50 @@
+﻿entity_id,entity_name,entity_type,incorporation_jurisdiction,headquarters_or_operations,listing,notes,source_id
+WILMAR,Wilmar International Limited,public_company,Singapore,Singapore,SGX:F34,Agribusiness; global consolidation not equal to Indonesia-only profit,WILMAR_FACT
+GAR,Golden Agri-Resources Ltd,public_company,Mauritius,Singapore,SGX:E5H,SGX-listed but incorporated in Mauritius,GAR_HOLD
+FIRST,First Resources Limited,public_company,Singapore,Singapore,SGX:EB5,Indonesian plantations; owns ANJ since 2025,FIRST_STOCK
+BUMI,Bumitama Agri Ltd,public_company,Singapore,Singapore,SGX:P8Z,Indonesian palm oil estates; controlling Lim/IOI blocs,BUMI_SGX25
+GEO,Geo Energy Resources Limited,public_company,Singapore,Singapore,SGX:RE4,Indonesian mines and logistics,GEO_AR25
+JCC,Jardine Cycle & Carriage Limited (renamed in 2026),public_company,Singapore,Singapore,SGX:C07,Renamed Jardine Matheson Southeast Asia Limited in 2026,JC_RENAME
+ASTRA,PT Astra International Tbk,public_company,Indonesia,Indonesia,IDX:ASII,Underlying Indonesian contribution to JCC is not equal to a dividend,ASTRA_2025
+ANJ,PT Austindo Nusantara Jaya Tbk,public_company,Indonesia,Indonesia,IDX:ANJT,Acquired by First Resources during 2025,ANJ_AR25
+JMH,Jardine Matheson Holdings Limited,public_company,Bermuda,Hong Kong group management,LSE:JARD,UK main listing; secondary Singapore listing; no single final Singapore attribution,JMH_AR25
+ADM,Archer Daniels Midland Company,public_company,United States,United States,NYSE:ADM,Ultimate US corporate shareholder path to Wilmar,WILMAR_AR25
+ADM_SG,ADM Investment Singapore Pte. Ltd.,holding_company,Singapore,Singapore,,Direct Wilmar shareholder,WILMAR_AR25
+ADM_HOLD,ADM Investment Singapore Holding I Pte. Ltd.,holding_company,Singapore,Singapore,,Reported indirect/deemed holder,WILMAR_AR25
+PPB,PPB Group Berhad,public_company,Malaysia,Malaysia,Bursa Malaysia,Direct holder 18.78%,WILMAR_AR25
+KUOK_BROS,Kuok Brothers Sdn Berhad,holding_company,Malaysia,Malaysia,,Deemed interest overlapping with PPB 18.78%,WILMAR_AR25
+KERRY_GRP,Kerry Group Limited,holding_company,,,,Deemed interests; risk of overlap,WILMAR_AR25
+KUOK_HH,Kuok Khoon Hong,person,,,,Deemed interest not additive to holders through his vehicles,WILMAR_AR25
+FLAMBO,Flambo International Limited,holding_company,,,,2.05% direct plus indirect shareholdings totaling 50.56%,GAR_HOLD
+ASCENT,Ascent Wealth Investment Limited,holding_company,,,,Flambo subsidiary,GAR_HOLD
+MASSINGHAM,Massingham International Limited,holding_company,,,,Flambo subsidiary,GAR_HOLD
+GOLDEN_MOM,Golden Moment Limited,holding_company,,,,Flambo subsidiary,GAR_HOLD
+WFMT,Widjaja Family Master Trust,trust,,,,Reported deemed 50.56%; trust interests not an individual nationality assignment,GAR_HOLD
+SII,Silchester International Investors LLP,asset_manager,,,,Deemed interest; manager is not automatically ultimate beneficiary,GAR_HOLD
+KOPERNIK,Kopernik Global Investors LLC,asset_manager,,,,Deemed interest; manager is not automatically ultimate beneficiary,GAR_HOLD
+EIGHT,Eight Capital Inc.,holding_company,,,,Reported major shareholder of First Resources,FIRST_STOCK
+EIGHT_TRUST,Eight Capital Master Trust,trust,,,,Governed by Guernsey law; beneficiaries do not have fixed benefit percentage,ANJ_AR25
+EIGHT_TRUSTEE,Eight Capital Trustees Pte. Ltd.,trustee,Singapore,Singapore,,Trustee legal shares do not establish economic beneficial allocation,ANJ_AR25
+INFINITE,Infinite Capital Fund Limited,holding_company,,,,Substantial holder 5.8% in Mar 2026,FIRST_STOCK
+FANG_FAM,Fangiono family beneficiary group,beneficiary_group,,,,"Named beneficiaries in report, no percentage distribution known",ANJ_AR25
+WELLPOINT,Wellpoint Pacific Holdings Ltd,holding_company,,,,Reported direct substantial interest 52.28%; 43.20 registered name distinct,BUMI_AR25
+OAKRIDGE,Oakridge Investments Pte. Ltd.,holding_company,Singapore,Singapore,,Direct shares about 30.85%,BUMI_AR25
+LYNWOOD,Lynwood Capital Resources Pte. Ltd.,holding_company,Singapore,Singapore,,Additional IOI-linked shares ~1.25%,BUMI_AR25
+IOI,IOI Corporation Berhad,public_company,Malaysia,Malaysia,Bursa Malaysia,Indirect substantial block,BUMI_SGX25
+PROGRESSIVE,Progressive Holdings Sdn Bhd,holding_company,Malaysia,Malaysia,,IOI-linked deemed interest chain,BUMI_AR25
+LIM_G,Lim Gunawan Hariyanto,person,,,,Reported deemed shareholder through Wellpoint,BUMI_AR25
+LIM_H,Lim Hariyanto Wijaya Sarwono,person,,,,Reported deemed shareholder through Wellpoint,BUMI_AR25
+CHARLES,Charles Antonny Melati,person,,,,Shares enlarged following Jan 2026 share issue,GEO_AR25
+MASTER,Master Resources International Limited,holding_company,,,,12.52% direct Geo Energy shares,GEO_AR25
+HUANG,Huang She Thong,person,,,,Deemed 12.52% through Master Resources; plus direct 1.71%,GEO_AR25
+RICHARD,Richard Kennedy Melati,person,,,,Master Resources shareholder 18 percent,GEO_AR25
+NG,Ng See Yong,person,,,,Master Resources shareholder,GEO_AR25
+YANTO,Yanto Melati,person,,,,Master Resources shareholder,GEO_AR25
+HEAH,Heah Theare Haw,person,,,,Geo shareholder,GEO_AR25
+RESOURCE_AG,Resource Invest AG,holding_company,,,,Geo direct shareholder,GEO_AR25
+RESINVEST_G,ResInvest Group a.s.,holding_company,,,,Owns Resource Invest AG through upstream entities,GEO_AR25
+RESINVEST_H,ResInvest Holding a.s.,holding_company,,,,Owned by Tomas Novotny,GEO_AR25
+TOMAS,Tomas Novotny,person,,,,100% owner of ResInvest Holding per Geo disclosure,GEO_AR25
+BT_TRUST,Butterfield Trust (Bermuda) Limited,trustee,Bermuda,,,Voting-right holder; actual beneficiaries not resolved,JMH_AR25
+TRUST1947,1947 Trust,trust,,,,Voting-right holder; discretionary interests noted,JMH_AR25
+FIRSTEAGLE,First Eagle Investment Management LLC,asset_manager,United States,,,Institutional holder; clients ultimate beneficiaries unknown,JMH_AR25

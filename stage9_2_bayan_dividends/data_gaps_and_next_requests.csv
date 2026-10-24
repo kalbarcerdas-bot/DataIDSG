@@ -1,0 +1,12 @@
+﻿priority,topic,missing_data,target_sources,reason
+HIGH,recording_date_register,Daftar pemegang saham per tanggal pencatatan untuk seluruh 14 dividen,KSEI / PT Raya Saham Registra / keterbukaan IDX,"Tanpa ini, dividen tiap orang hanya estimasi berdasarkan snapshot terdekat."
+HIGH,historical_shareholding_2018,Kepemilikan Low per 21 Jun 2018 dan tgl record 2019–2020,BAE; AR 2018/2019 dan arsip pengungkapan saham,Perkiraan lama dari snapshot 2015/2019 berisiko bias.
+HIGH,tax_residency,Domisili pajak tiap penerima pada tiap tanggal dividen,Dokumen publik yang sukarela disampaikan; sertifikat domisili hanya jika sah/terbuka,Kewarganegaraan Singapura tidak membuktikan status residen pajak Singapura.
+HIGH,bank_cash_destination,Rekening penerima dividen atau bukti transfer lintas negara yang legal dipublikasikan,Keterbukaan perusahaan/penerima atau agregat BOP Bank Indonesia,Tidak tersedia publik; jangan menyatakan dividen dikirim ke Singapura.
+HIGH,indirect_ownership,Hubungan pemilik manfaat akhir PT Sumber Suryadaya Prima dan pemegang saham lainnya,AHU publik/annual report/register,Jangan mengatribusi 10% SSP ke Low atau keluarga tanpa bukti.
+MEDIUM,2011_2012_USD,Nilai total dividen 2011–2012 dalam USD jika tersedia di catatan konsolidasian,FS/AR 2011–2012 dan BI rate tanggal kurs pembayaran,Jangan menjumlahkan nominal rupiah sebagai USD dengan kurs masa kini.
+MEDIUM,2026_IDR_vs_USD,Kurs resmi applied recording 23 Juni 2026 terhadap Rp267.285/DPS dan USD$500m,KSEI/BEI/BI dan hasil RUPST,Ada perbedaan angka perkiraan kurs sebelum recording.
+MEDIUM,tax_withholding,"PPh final/nonfinal, treaty, withholding untuk penerima 2024–2026",DJP guidance dan keterbukaan dokumen pajak yang boleh dibuka,Hak bruto tidak sama dengan uang diterima bersih.
+MEDIUM,LowYiNgo_record_date,Jumlah saham Low Yi Ngo saat tanggal pencatatan dividen,BAE/KSEI,Saat ini menggunakan snapshot tahunan/interim.
+MEDIUM,dividend_zero_years,Memastikan tidak ada cash dividend BYAN 2008–2010 dan 2013–2017,"AR audit, KSEI corporate actions, RUPS",KSEI tidak menampilkan dividen tidak selalu setara tidak pernah ada bentuk distribusi lain.
+MEDIUM,2026_oct_changes,Rekonsiliasi perubahan Elaine Low September–Oktober 2026 karena pemberitaan sementara berbeda,"KSEI daily ownership, final issuer clarifications",Data per 19 Oct adalah acuan terbaru; tidak memengaruhi dividen Jul 2026.

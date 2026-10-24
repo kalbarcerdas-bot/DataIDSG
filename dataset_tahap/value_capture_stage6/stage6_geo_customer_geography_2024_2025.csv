@@ -1,0 +1,3 @@
+﻿company_id,year,revenue_to_indonesia_customers_usd_m,total_group_revenue_usd_m,indonesia_customer_share_pct,definition,source_id
+GEO,2024,127.967296,401.898621,31.84,customer_location_not_production_location_not_indonesia_profit,GEO_AR25
+GEO,2025,155.91955,562.663546,27.71,customer_location_not_production_location_not_indonesia_profit,GEO_AR25

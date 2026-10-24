@@ -1,0 +1,37 @@
+﻿year,business_contribution,value_usd_m,metric,source_id,note
+2022,astra_automotive_mobility,296.8,contribution_to_underlying_profit,JCC_AR23,
+2022,astra_financial_services,202.3,contribution_to_underlying_profit,JCC_AR23,
+2022,astra_heavy_equipment_mining_construction_energy,423.7,contribution_to_underlying_profit,JCC_AR23,
+2022,astra_agribusiness,49.6,contribution_to_underlying_profit,JCC_AR23,
+2022,astra_infrastructure_logistics,17.7,contribution_to_underlying_profit,JCC_AR23,
+2022,astra_it,2.5,contribution_to_underlying_profit,JCC_AR23,
+2022,astra_property,5.4,contribution_to_underlying_profit,JCC_AR23,
+2022,astra_withholding_tax_adjustment,-85.1,contribution_to_underlying_profit,JCC_AR23,Negative withholding-tax adjustment; not entire Indonesian tax take
+2022,tunas_ridean,28.1,contribution_to_underlying_profit,JCC_AR23,
+2023,astra_automotive_mobility,341.7,contribution_to_underlying_profit,JCC_AR23,
+2023,astra_financial_services,258.1,contribution_to_underlying_profit,JCC_AR23,
+2023,astra_heavy_equipment_mining_construction_energy,421.9,contribution_to_underlying_profit,JCC_AR23,
+2023,astra_agribusiness,27.2,contribution_to_underlying_profit,JCC_AR23,
+2023,astra_infrastructure_logistics,32.0,contribution_to_underlying_profit,JCC_AR23,
+2023,astra_it,3.6,contribution_to_underlying_profit,JCC_AR23,
+2023,astra_property,5.4,contribution_to_underlying_profit,JCC_AR23,
+2023,astra_withholding_tax_adjustment,-70.6,contribution_to_underlying_profit,JCC_AR23,Negative withholding-tax adjustment; not entire Indonesian tax take
+2023,tunas_ridean,39.1,contribution_to_underlying_profit,JCC_AR23,
+2024,astra_automotive_mobility,340,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2024,astra_financial_services,258,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2024,astra_heavy_equipment_mining_construction_energy,376,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2024,astra_agribusiness,26,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2024,astra_infrastructure_logistics,32,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2024,astra_it,5,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2024,astra_property,7,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2024,astra_withholding_tax_adjustment,-51,contribution_to_underlying_profit,JCC_AR25,Negative withholding-tax adjustment; not entire Indonesian tax take
+2024,tunas_ridean,34,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2025,astra_automotive_mobility,322,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2025,astra_financial_services,272,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2025,astra_heavy_equipment_mining_construction_energy,282,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2025,astra_agribusiness,46,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2025,astra_infrastructure_logistics,38,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2025,astra_it,6,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2025,astra_property,8,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded
+2025,astra_withholding_tax_adjustment,-47,contribution_to_underlying_profit,JCC_AR25,Negative withholding-tax adjustment; not entire Indonesian tax take
+2025,tunas_ridean,18,contribution_to_underlying_profit,JCC_AR25,2024-25 figures rounded

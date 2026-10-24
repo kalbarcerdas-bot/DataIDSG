@@ -1,0 +1,277 @@
+﻿year,partner,reporter,category_id,category_label,sg_exports_million_sgd,sg_imports_million_sgd,sg_balance_million_sgd,source_exports_table,source_imports_table,status,year_total_reconciled,is_profit,is_value_added
+2003,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2003,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2003,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2003,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2003,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2003,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2003,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2003,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2003,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2003,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2003,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2003,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2004,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2004,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2004,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2004,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2004,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2004,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2004,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2004,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2004,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2004,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2004,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2004,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2005,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2005,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2005,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2005,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2005,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2005,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2005,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2005,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2005,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2005,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2005,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2005,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2006,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2006,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2006,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2006,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2006,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2006,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2006,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2006,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2006,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2006,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2006,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2006,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2007,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2007,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2007,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2007,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2007,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2007,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2007,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2007,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2007,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2007,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2007,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2007,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2008,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2008,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2008,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2008,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2008,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2008,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2008,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2008,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2008,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2008,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2008,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2008,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2009,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2009,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2009,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2009,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2009,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2009,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2009,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2009,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2009,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2009,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2009,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2009,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2010,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2010,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2010,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2010,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2010,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2010,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2010,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2010,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2010,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2010,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2010,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2010,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2011,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2011,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2011,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2011,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2011,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2011,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2011,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2011,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2011,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2011,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2011,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2011,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2012,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2012,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2012,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2012,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2012,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2012,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2012,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2012,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2012,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2012,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2012,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2012,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2013,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2013,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2013,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2013,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2013,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2013,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2013,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2013,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2013,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2013,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2013,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2013,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2014,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2014,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2014,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2014,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2014,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2014,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2014,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2014,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2014,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2014,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2014,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2014,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2015,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2015,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2015,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2015,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2015,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2015,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2015,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2015,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2015,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2015,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2015,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2015,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2016,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2016,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2016,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2016,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2016,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2016,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2016,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2016,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2016,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2016,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2016,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2016,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2017,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2017,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2017,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2017,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2017,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2017,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2017,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2017,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2017,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2017,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2017,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2017,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2018,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2018,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2018,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2018,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2018,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2018,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2018,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2018,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2018,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2018,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2018,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2018,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2019,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2019,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2019,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2019,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2019,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2019,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2019,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2019,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2019,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2019,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2019,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2019,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2020,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2020,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2020,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2020,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2020,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2020,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2020,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2020,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2020,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2020,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2020,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2020,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2021,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2021,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2021,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2021,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2021,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2021,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2021,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2021,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2021,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2021,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2021,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2021,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2022,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2022,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2022,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2022,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2022,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2022,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2022,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2022,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2022,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2022,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2022,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2022,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2023,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2023,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2023,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2023,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2023,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2023,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2023,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2023,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2023,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2023,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2023,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2023,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2024,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2024,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2024,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2024,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2024,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2024,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2024,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2024,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2024,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2024,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2024,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2024,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False
+2025,Indonesia,Singapore,manufacturing_on_others_inputs,Manufaktur atas input milik pihak lain,,,,M060261,M060271,pending_extract,False,False,False
+2025,Indonesia,Singapore,maintenance_repair,Pemeliharaan dan perbaikan,,,,M060261,M060271,pending_extract,False,False,False
+2025,Indonesia,Singapore,transport,Transportasi,,,,M060261,M060271,pending_extract,False,False,False
+2025,Indonesia,Singapore,travel,Perjalanan,,,,M060261,M060271,pending_extract,False,False,False
+2025,Indonesia,Singapore,construction,Konstruksi,,,,M060261,M060271,pending_extract,False,False,False
+2025,Indonesia,Singapore,insurance,Asuransi,,,,M060261,M060271,pending_extract,False,False,False
+2025,Indonesia,Singapore,financial,Jasa keuangan,,,,M060261,M060271,pending_extract,False,False,False
+2025,Indonesia,Singapore,telecom_computer_information,"Telekomunikasi, komputer dan informasi",,,,M060261,M060271,pending_extract,False,False,False
+2025,Indonesia,Singapore,intellectual_property,Penggunaan hak kekayaan intelektual,,,,M060261,M060271,pending_extract,False,False,False
+2025,Indonesia,Singapore,other_business,Jasa bisnis lainnya,,,,M060261,M060271,pending_extract,False,False,False
+2025,Indonesia,Singapore,personal_cultural_recreational,"Jasa personal, budaya dan rekreasi",,,,M060261,M060271,pending_extract,False,False,False
+2025,Indonesia,Singapore,government,Jasa pemerintah,,,,M060261,M060271,pending_extract,False,False,False

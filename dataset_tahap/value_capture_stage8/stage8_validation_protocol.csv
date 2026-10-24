@@ -1,0 +1,14 @@
+﻿rule_id,category,applies_to,requirement,status
+V01,Completeness,OECD_2025,Official data 2003-2022; 2023-2025 null until another explicitly labeled version selected,SPECIFIED_NOT_EXECUTED_ON_OECD_OBSERVATIONS
+V02,Nulls,ALL,Missing values must remain null; zero is not allowed to represent missing,SPECIFIED_NOT_EXECUTED_ON_OECD_OBSERVATIONS
+V03,Unit,ALL,Preserve USD million at current prices; no silent conversions,SPECIFIED_NOT_EXECUTED_ON_OECD_OBSERVATIONS
+V04,Vintage,ALL,Series must be all January 2026 revision; never merge earlier 2023/2025 vintages silently,SPECIFIED_NOT_EXECUTED_ON_OECD_OBSERVATIONS
+V05,Sector_total,ALL,Identify official aggregate total-economy activity from data structure; do not sum aggregates together with constituent sectors,SPECIFIED_NOT_EXECUTED_ON_OECD_OBSERVATIONS
+V06,Direction,ALL,"Reference economy is value-added origin (or exporter for exports), counterpart is final demand absorber or export destination as appropriate",SPECIFIED_NOT_EXECUTED_ON_OECD_OBSERVATIONS
+V07,No_additivity,ALL,Do not add FFD_DVA to EXGR_DVA; overlapping representations of value added,SPECIFIED_NOT_EXECUTED_ON_OECD_OBSERVATIONS
+V08,Ownership,ALL,Location of value-added production is not identity of final profit beneficiary or citizenship of shareholder,SPECIFIED_NOT_EXECUTED_ON_OECD_OBSERVATIONS
+V09,Mirror,FFD_DVA,SGP VA in Indonesian demand and IDN VA in Singapore demand are different directional measures and need not be equal,SPECIFIED_NOT_EXECUTED_ON_OECD_OBSERVATIONS
+V10,Benchmark,IMF_2018,Approximate 2018 bar chart readings may be used only as context; never inserted into revised 2025 dataset,SPECIFIED_NOT_EXECUTED_ON_OECD_OBSERVATIONS
+V11,Foreign_va,EXGR_FVA,"Foreign VA in SG exports to IDN is from all non-SG economies, not specifically Indonesia",SPECIFIED_NOT_EXECUTED_ON_OECD_OBSERVATIONS
+V12,Comparison,ALL,Trade in value-added final demand is not equivalent to direct exports or bilateral services surplus,SPECIFIED_NOT_EXECUTED_ON_OECD_OBSERVATIONS
+V13,API_verification,ALL,"Key shape, total activity aggregate code, and observation values must be validated on actual CSV before publishing",SPECIFIED_NOT_EXECUTED_ON_OECD_OBSERVATIONS

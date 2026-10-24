@@ -1,0 +1,6 @@
+﻿year,astra_contribution_usd_m,tunas_contribution_usd_m,reported_or_reconstructed_indonesia_contribution_usd_m,geographic_profit_definition,source_id,note
+2021,654.8,16.4,671.2,contribution_to_jcc_underlying_profit_attributable_to_shareholders,JCC_AR22,2021 source divides Astra from Indonesia Tunas interests
+2022,912.9,28.1,941.0,contribution_to_jcc_underlying_profit_attributable_to_shareholders,JCC_AR22;JCC_AR23,2022 Astra includes withholding-tax adjustment
+2023,1019.3,39.1,1058.4,contribution_to_jcc_underlying_profit_attributable_to_shareholders,JCC_AR23,2023 Astra includes withholding-tax adjustment
+2024,993,34,1027.3,contribution_to_jcc_underlying_profit_attributable_to_shareholders,JCC_AR25,Components rounded to whole USD million; stated Indonesia total uses report precision
+2025,927,18,944.6,contribution_to_jcc_underlying_profit_attributable_to_shareholders,JCC_AR25,Components rounded to whole USD million; stated Indonesia total uses report precision

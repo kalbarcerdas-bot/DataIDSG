@@ -1,0 +1,5 @@
+﻿series_id,dataset_id,direction,url,available_range,extraction_status
+M060261,d_bff5c93e3d5a7153df64a968afcc7d5b,SG_EXPORTS_TO_INDONESIA,https://data.gov.sg/datasets/d_bff5c93e3d5a7153df64a968afcc7d5b/view,2000-2024,not_extracted
+M060271,d_addeac819bfa848fdcc255dd6637484c,SG_IMPORTS_FROM_INDONESIA,https://data.gov.sg/datasets/d_addeac819bfa848fdcc255dd6637484c/view,2000-2024,not_extracted
+M060361,d_3dbf4c3eec72cfccac3ad1f75e1d3adb,SG_EXPORTS_TO_INDONESIA_BY_INDUSTRY,https://data.gov.sg/datasets/d_3dbf4c3eec72cfccac3ad1f75e1d3adb/view,2017-2024,not_extracted
+M060371,d_0267c40931b02c8cad4b56e41e6e35c7,SG_IMPORTS_FROM_INDONESIA_BY_INDUSTRY,https://data.gov.sg/datasets/d_0267c40931b02c8cad4b56e41e6e35c7/view,2017-2024,not_extracted

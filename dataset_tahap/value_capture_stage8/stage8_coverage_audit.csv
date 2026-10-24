@@ -1,0 +1,7 @@
+﻿indicator_id,target_years,published_coverage_2003_2022,out_of_coverage_2023_2025,actual_observations_extracted,expected_value_rows,status,next_step
+FFD_DVA_SGP_IDN,23,20,3,0,20,DATA_ACCESS_PENDING,Use official OECD SDMX response and load country/industry filtering; not scrape individual HTML pages
+FFD_DVA_IDN_SGP,23,20,3,0,20,DATA_ACCESS_PENDING,Use official OECD SDMX response and load country/industry filtering; not scrape individual HTML pages
+EXGR_DVA_SGP_IDN,23,20,3,0,20,DATA_ACCESS_PENDING,Use official OECD SDMX response and load country/industry filtering; not scrape individual HTML pages
+EXGR_DVA_IDN_SGP,23,20,3,0,20,DATA_ACCESS_PENDING,Use official OECD SDMX response and load country/industry filtering; not scrape individual HTML pages
+EXGR_FVA_SGP_IDN,23,20,3,0,20,DATA_ACCESS_PENDING,Use official OECD SDMX response and load country/industry filtering; not scrape individual HTML pages
+EXGR_FVA_IDN_SGP,23,20,3,0,20,DATA_ACCESS_PENDING,Use official OECD SDMX response and load country/industry filtering; not scrape individual HTML pages
